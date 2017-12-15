@@ -9,7 +9,7 @@ In this repository, there are two different avatars of simplified cloudstress -
 1. Modify the config.zpl file according to your requirements - configure the required amount of CPU and Memory stresses.
 2. Run the cloudstress application as
 ```sh
-$ ./cloudstress -f config.zpl
+$ ./cloudstress --conffile config.zpl
 ```
 3. Kill the cloudstress, when you are done.
 
