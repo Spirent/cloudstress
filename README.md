@@ -11,7 +11,7 @@ In this repository, there are two different avatars of simplified cloudstress -
 ```sh
 $ ./cloudstress --conffile config.zpl
 ```
-3. Kill the cloudstress, when you are done.
+3. Stop or kill the cloudstress application, when you are done.
 
 ## Using cloudstress as VM:
 There are multiple options, (a) Using virt-manager or (b) using qemu-system-x86_64 command. Example:
